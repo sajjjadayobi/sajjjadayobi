@@ -1,6 +1,6 @@
-### Hi there, I'm Sajjad Ayoubi 👋
+# Hi there, I'm Sajjad Ayoubi 👋
 
-[DL,AI Blog](https://sajjjadayobi.github.io/blog/)
+- my [Blog](https://sajjjadayobi.github.io/blog/) about **Learning Deep Learning**
 
 ## I'm a, Data(any) Sicence Lover and Little computer geek
 

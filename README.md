@@ -2,7 +2,7 @@
 
 - my [Blog](https://sajjjadayobi.github.io/blog/) about **Learning Deep Learning**
 
-## I'm a, Data(any) Sicence Lover and Little Computer Geek
+## I'm a, Data(any) Science Lover and Little Computer Geek
 
 - 🔭 I love research topics in Deep Learning
 - 🔨 I’m currently working on Chatbots (just because I need some money 😊)

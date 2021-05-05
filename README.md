@@ -6,7 +6,7 @@
 
 - 🔭 I love research topics in Deep Learning
 - 🔬 I'm currently learning about NLP & CV
-- 🔨 I’m currently working on Chatbots (just because I need some money 😊)
+- 🔨 I’m currently working on Chatbots at [shenasa.ai](http://shenasa.ai/)
 
 Keywords: `NLP`, `Deep Learning`, `CV`, `AI`
 

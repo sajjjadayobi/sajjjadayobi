@@ -1,8 +1,8 @@
-# Hi there, I'm Sajjad Ayoubi 👋
+# Hi, I’m Sajjad Ayoubi 👋
+At 23, I currently lead a team @ Divar.ir, the largest classified ad platform in the Middle East. My team and I are dedicated to optimize human-in-the-loop processes with advanced technologies like LLMs and other machine learning techniques. Over the years, I’ve developed a keen interest in deep learning and machine learning, striving to create solutions that tackle real-world problems in various sectors.
 
-Growing up, I always wanted to make new things. When I learned about Computer Science in my teens, I realized that I could make cool things with it. Since then, Artificial Intelligence became my tool for doing so. I've used Youtube's open courses as my university to learn Programming, English, Math, AI, and many other subjects. Every day, I strive to be better 1% at a time, and to be more productive. My interests include Neuroscience and Psychology, Personal Development, and Making Friends with Nice People.
-- I'm a Data Scientist working on fun and useful projects in indusrty 😙
-- If you want to get in touch visit my [website](http://sajjjadayobi.github.io/)
+I became fascinated with coding as a teenager, enjoying how it allowed me to construct things and learn from failures without significant cost. This led me to teach myself through resources like YouTube, where I learned not just programming but also English, AI, etc. I believe in the power of small, daily improvements with books, blogs and videos. I’m also intrested in psychology, decision making and neuroscience or anything related to human nature. Writing helps me to process what I’ve learned and to share insights with others. I write knowlege docs, personal and life docs and many other things 😃
+- If you want to get in touch visit my [site](http://sajjjadayobi.github.io/)
 
 ## News
-- Check out my article about [How to create a Github that gives you a job in Machine Learning?](https://medium.com/@sadeveloper360/a-github-that-gives-you-a-job-in-machine-learning-7654e3d26231) 
+- Check out my article about [A Github that gives you a job in ML](https://medium.com/@sadeveloper360/a-github-that-gives-you-a-job-in-machine-learning-7654e3d26231)
